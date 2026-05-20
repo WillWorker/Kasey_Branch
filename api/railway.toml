@@ -1,0 +1,6 @@
+[build]
+command = "pnpm install"
+
+[deploy]
+startCommand = "node api/server.js"
+healthcheckPath = "/health"

@@ -1,0 +1,8 @@
+# db
+
+Database service configuration.
+
+For now: no code; Railway Postgres (or similar) add-on is preferred.
+This directory exists to:
+- Hold future migration scripts.
+- Keep the repo structure aligned with our service layout.
